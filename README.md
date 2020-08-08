@@ -76,12 +76,9 @@
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccwongvr&layout=compact&hide=html"
   alt="ccwongvr"
 />
-
-<p><img src="https://komarev.com/ghpvc/?username=ccwongvr" alt="ccwongvr" /></p>
-
-<br />
 <img
   src="https://github-readme-stats.vercel.app/api?username=ccwongvr&show_icons=true"
   alt="ccwongvr"
 />
 
+<p><img src="https://komarev.com/ghpvc/?username=ccwongvr" alt="ccwongvr" /></p>
