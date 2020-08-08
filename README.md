@@ -2,8 +2,8 @@
 
 <h3 align="center">Full Stack Developer</h3>
 
-<p>
-  <h4> My Skills </h4>
+<h4> My Skills </h4>
+<p style="display: inline-block;">
   <img
     src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg"
     alt="django"
@@ -40,7 +40,6 @@
     width="40"
     height="40"
   />
-
   <img
     src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg"
     alt="mysql"
